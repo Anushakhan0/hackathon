@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.btn{
+    height: 70px;
+    width: 270px;
+    margin-right: 48px;
+    border-radius: 20px;
+}
+.nav-item{
+    margin-right: 16px;
+}
+
+h1{
+    width: 60%;
+    margin-left: 25%;
+    word-spacing: 3px;
+}
+h5{
+    width: 60%;
+    margin-left: 25%;
+    word-spacing: 3px;
+}
+.heroimg{
+    width :50%
+}
+.row{
+    margin-top: 150px;
+}
+.herobtn{
+    margin-top: 20px;
+    width: 60%;
+    margin-left: 25%;
+    height: 70px;
+    width: 270px;
+    margin-right: 48px;
+    border-radius: 20px;
+    background: black;
+    color: white;
+   
+}
+p{
+    text-align: center;
+    justify-content: center;
+}
